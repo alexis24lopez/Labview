@@ -3,3 +3,6 @@
 # The programs are compiled using LabVIEW 2016. Use LabVIEW 2016 or newer.
 # The main file are in the format AL[number] [B or P].vi
 # For example the main file for the LabVIEW program will be AL1P.vi
+
+# Folders that starts with E are smaller submodules for bigger projects which are
+# folders that starts with A.
